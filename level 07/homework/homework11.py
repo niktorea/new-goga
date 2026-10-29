@@ -11,4 +11,6 @@ if names[0] == "Goga":
     print("hello goga")
 
 names[-1] = "Mariami"
+
+#ewrwqeiu
     
