@@ -1,9 +1,10 @@
 word = "Development"
 print(word[6:])
 
-print(word[:3])
-# ?
-# ?
+print(word[:-3])
+print(word[-8:-3])
+
+print(word[1:-1])
 
 # მოთხოვნები:
 # 1. გამოიტანე ბოლო 5 სიმბოლო.
