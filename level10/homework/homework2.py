@@ -1,9 +1,9 @@
 sentence = ("JAVASCRIPT IS VERY INTERESTING")
 
-print(sentence.lower)
-print(sentence.upper)
-print(sentence.capitalize)
-# print(sentence.) ?
+print(sentence.lower())
+print(sentence.upper())
+print(sentence.capitalize())
+# print(sentence.) 
 # მოთხოვნები:
 # 1. გადაიყვანე მთელი წინადადება პატარა ასოებში.
 # 2. გადაიყვანე მთელი წინადადება დიდ ასოებში.

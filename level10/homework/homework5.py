@@ -1,5 +1,12 @@
+
 letname = "Goga"
-# ???
+
+
+name = input("enter your name:")
+if letname.lower() == name.lower() :
+    print("Names are equal!")
+else:
+    print("Names are different!")
 
 # 1. მომხმარებელს შეაყვანინე სახელი.
 # 2. შეადარე შეყვანილი სახელი შენახულ სახელს.

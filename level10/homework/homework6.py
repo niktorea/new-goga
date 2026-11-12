@@ -1,8 +1,8 @@
 letword = "jAVaScRipt"
 
-print(letword.lower)
-print(letword.upper)
-print(letword.capitalize)
+print(letword.lower())
+print(letword.upper())
+print(letword.capitalize())
 
 
 
