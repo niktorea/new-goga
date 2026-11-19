@@ -1,11 +1,10 @@
-sentence = ("JAVASCRIPT IS VERY INTERESTING")
+# 2)შექმენი სია students, რომელშიც იქნება 5 მოსწავლის სახელი.
+# 1. მომხმარებელს შეაყვანინე 2 ახალი მოსწავლის სახელი.
+# 2. ორივე სახელი დაამატე სიაში append() მეთოდით.
+# 3. დაბეჭდე განახლებული სია.
 
-print(sentence.lower())
-print(sentence.upper())
-print(sentence.capitalize())
-# print(sentence.) 
-# მოთხოვნები:
-# 1. გადაიყვანე მთელი წინადადება პატარა ასოებში.
-# 2. გადაიყვანე მთელი წინადადება დიდ ასოებში.
-# 3. დაბეჭდე წინადადების პირველი სიტყვა დიდი ასოებით გამოიყენე slicing.
-# 4. დაბეჭდე წინადადების ბოლო სიტყვა პატარა ასოებით გამოიყენე slicing.
+students = ["gio", "leo", "elo", "data", "timo"]
+
+students.append("nika")
+students.append("leqso")
+print(students)

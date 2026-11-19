@@ -1,15 +1,9 @@
+# 5)შექმენი სია:
 
-letname = "Goga"
-
-
-name = input("enter your name:")
-if letname.lower() == name.lower() :
-    print("Names are equal!")
-else:
-    print("Names are different!")
-
-# 1. მომხმარებელს შეაყვანინე სახელი.
-# 2. შეადარე შეყვანილი სახელი შენახულ სახელს.
-# 3. შედარებამდე ორივე სახელი გადაიყვანე პატარა ასოებში.
-# 4. თუ ემთხვევა, დაბეჭდე "Names are equal!", წინააღმდეგ შემთხვევაში — "Names are different!".
-
+animals = ["Dog", "Cat", "Lion", "Tiger", "Bear"]
+animals.remove(2)
+print(animals[2])
+print(animals)
+# 1. წაშალე მეორე ინდექსზე მდგომი ელემენტი.
+# 2. დაბეჭდე წაშლილი ელემენტი.
+# 3. დაბეჭდე განახლებული სია.

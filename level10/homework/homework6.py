@@ -1,11 +1,13 @@
-letword = "jAVaScRipt"
+# 6)შექმენი სია:
 
-print(letword.lower())
-print(letword.upper())
-print(letword.capitalize())
-
-
-
-# 1. გადაიყვანე სიტყვა მთლიანად პატარა ასოებში.
-# 2. პირველი ასო გადაიყვანე დიდ ასოში.
-# 3. საბოლოოდ მიიღე JavaScript.
+games = ["Minecraft", "GTA", "FIFA", "Fortnite", "Roblox", "CS2"]
+games.remove(-1)
+print(games)
+games.remove(0)
+print(games)
+games.remove(3)
+print(games)
+# 1. წაშალე სიის ბოლო ელემენტი.
+# 2. წაშალე პირველი ელემენტი.
+# 3. წაშალე მესამე ინდექსზე მდგომი ელემენტი.
+# 4. ყოველი წაშლის შემდეგ დაბეჭდე სია.
