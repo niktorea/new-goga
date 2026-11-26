@@ -1,7 +1,7 @@
 # 3)შექმენი სია:
 
 colors = ["Red", "Blue", "Green", "Yellow"]
-colors.index(1, "black")
+colors.insert(1, "black")
 colors.insert(3, "white")
 print(colors)
 # 1. ინდექსზე 1 დაამატე "Black".

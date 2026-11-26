@@ -5,7 +5,7 @@ numbers.pop(0)
 numbers.pop(2)
 numbers.pop(5)
 print(numbers)
-numbers.count
+print(len(numbers))
 # 1. წაშალე რიცხვი 10.
 # 2. წაშალე რიცხვი 30.
 # 3. წაშალე რიცხვი 50.

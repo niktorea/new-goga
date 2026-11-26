@@ -1,11 +1,11 @@
 # 6)შექმენი სია:
 
 games = ["Minecraft", "GTA", "FIFA", "Fortnite", "Roblox", "CS2"]
-games.remove(-1)
+games.pop(-1)
 print(games)
-games.remove(0)
+games.pop(0)
 print(games)
-games.remove(3)
+games.pop(3)
 print(games)
 # 1. წაშალე სიის ბოლო ელემენტი.
 # 2. წაშალე პირველი ელემენტი.

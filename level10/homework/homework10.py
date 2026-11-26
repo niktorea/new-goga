@@ -1,7 +1,7 @@
 # 10)დავალება 1 — მარტივი
 books = [1,2,3,4,5]
 print(books)
-books.clear
+books.clear()
 print(books)
 # შექმენი სია books, რომელშიც იქნება 5 წიგნის სახელი.
 # 1. დაბეჭდე სია.
